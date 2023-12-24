@@ -1,0 +1,578 @@
+Input a name for hunter 1?
+[HUNTER INIT] [Soham] is a [EMF] hunter
+Input a name for hunter 2
+[HUNTER INIT] [Sneha] is a [TEMPERATURE] hunter
+Input a name for hunter 3
+[HUNTER INIT] [Amogh] is a [FINGERPRINTS] hunter
+Input a name for hunter 4
+[HUNTER INIT] [Mursaleen] is a [SOUND] hunter
+[GHOST INIT] Ghost is a [Unknown] in room [Right Storage Room]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Sneha] has moved into [Van]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+[HUNTER EVIDENCE] [Sneha] found [TEMPERATURE] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Soham] has moved into [Hallway]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Right Storage Room]
+[HUNTER MOVE] [Sneha] has moved into [Van]
+[GHOST MOVE] Ghost has moved into [Basement Hallway]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Basement Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Soham] found [EMF] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Basement Hallway]
+[HUNTER EVIDENCE] [Sneha] found [TEMPERATURE] in [Van] and [COLLECTED]
+[GHOST MOVE] Ghost has moved into [Basement]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Soham] has moved into [Bathroom]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Basement]
+[GHOST MOVE] Ghost has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[GHOST MOVE] Ghost has moved into [Van]
+[GHOST MOVE] Ghost has moved into [Van]
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Van]
+[HUNTER MOVE] [Sneha] has moved into [Hallway]
+[GHOST MOVE] Ghost has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[GHOST MOVE] Ghost has moved into [Bathroom]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+[HUNTER EVIDENCE] [Soham] found [EMF] in [Bathroom] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Soham] found [EMF] in [Bathroom] and [COLLECTED]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+[HUNTER MOVE] [Sneha] has moved into [Bathroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+[HUNTER MOVE] [Sneha] has moved into [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+[HUNTER MOVE] [Soham] has moved into [Hallway]
+
+ I have a random evidence 0
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+[HUNTER MOVE] [Sneha] has moved into [Bathroom]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Bathroom]
+[HUNTER MOVE] [Soham] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[GHOST MOVE] Ghost has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+[HUNTER EVIDENCE] [Sneha] found [TEMPERATURE] in [Bathroom] and [COLLECTED]
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+[HUNTER MOVE] [Amogh] has moved into [Bathroom]
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Soham] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+[HUNTER MOVE] [Sneha] has moved into [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+[HUNTER EVIDENCE] [Sneha] found [TEMPERATURE] in [Hallway] and [COLLECTED]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+Hunter is reviewing evidence.
+[HUNTER MOVE] [Amogh] has moved into [Bathroom]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+[HUNTER EVIDENCE] [Soham] found [EMF] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER EVIDENCE] [Soham] found [EMF] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 1
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 0
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+[HUNTER EVIDENCE] [Sneha] found [TEMPERATURE] in [Hallway] and [COLLECTED]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Soham] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+Ghost is in the room with a hunter. Boredom timer reset to 0.
+
+ I have a random evidence 2
+[GHOST EVIDENCE] Ghost left [EMF] in [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Sneha] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EXIT] [Sneha] exited because [FEAR]
+exitFlag = 0, bored = 0, fearMax = 101[GHOST EXIT] Exited because [BORED]
+[HUNTER MOVE] [Soham] has moved into [Bathroom]
+[HUNTER EXIT] [Soham] exited because [FEAR]
+exitFlag = 1, bored = 0, fearMax = 10Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Boy's Bedroom]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Boy's Bedroom] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+[HUNTER MOVE] [Mursaleen] has moved into [Boy's Bedroom]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Boy's Bedroom]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Bathroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Bathroom]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Master Bedroom]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Master Bedroom] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Bathroom] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Bathroom]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Basement]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+[HUNTER MOVE] [Mursaleen] has moved into [Basement Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement Hallway] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Master Bedroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement Hallway] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Master Bedroom] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement Hallway] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Basement]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Basement]
+[HUNTER MOVE] [Amogh] has moved into [Master Bedroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Master Bedroom]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Basement] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Basement Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Basement]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Hallway] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Master Bedroom] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Van]
+[HUNTER MOVE] [Amogh] has moved into [Hallway]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Bathroom]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Hallway]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+[HUNTER MOVE] [Mursaleen] has moved into [Kitchen]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Living Room]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER MOVE] [Mursaleen] has moved into [Kitchen]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Kitchen] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Kitchen] and [COLLECTED]
+[HUNTER MOVE] [Amogh] has moved into [Van]
+[HUNTER MOVE] [Mursaleen] has moved into [Living Room]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Mursaleen] reviewed evidence and found [INSUFFICIENT]
+Hunter is reviewing evidence.
+[HUNTER REVIEW] [Amogh] reviewed evidence and found [INSUFFICIENT]
+[HUNTER MOVE] [Mursaleen] has moved into [Living Room]
+[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EVIDENCE] [Mursaleen] found [SOUND] in [Living Room] and [COLLECTED]
+[HUNTER EXIT] [Mursaleen] exited because [BORED]
+exitFlag = 0, bored = 100, fearMax = 8[HUNTER EVIDENCE] [Amogh] found [FINGERPRINTS] in [Van] and [COLLECTED]
+[HUNTER EXIT] [Amogh] exited because [BORED]
+exitFlag = 1, bored = 100, fearMax = 9
